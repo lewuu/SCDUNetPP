@@ -1,6 +1,6 @@
 ﻿# SCDUNet++ for Landslide Mapping Using Multi-Channel Remote Sensing Data  
 
-📄 This repository contains the official implementation of our paper: **Landslide Mapping Based on a Hybrid CNN-Transformer Network and Deep Transfer Learning Using Remote Sensing Images with Topographic and Spectral Features Implementation for SCDUNet++.**  
+📄 This repository contains the official implementation of our paper: **Landslide Mapping Based on a Hybrid CNN-Transformer Network and Deep Transfer Learning Using Remote Sensing Images with Topographic and Spectral Features.**  
 
 📖 View paper [here](https://doi.org/10.1016/j.jag.2023.103612).  
 
@@ -24,6 +24,8 @@ cd SCDUNetPP
 ```
 
 ## Dataset preparation  
+
+The dataset can be accessed at [zenodo](https://zenodo.org/records/17543956).
 
 1️⃣ Create the directory 📁 `data/luding/DATA/img` and put the ***images*** in it. 🖼️  
 2️⃣ Create the directory 📁 `data/luding/DATA/label` and put the ***labels*** in it. 🏷️  
